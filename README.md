@@ -22,11 +22,6 @@ Et ainsi de suite...
 Il y a plusieurs scripts et leur différence se trouve dans leur rapidité.
 
 On peut commencer par faire une liste de tous les entiers mais cela prend beaucoup de temps et de mémoire
-Comme ensuite, on supprime tous les multiples de 2 sauf 2, il reste tous les nombres impaires.
-
-Le script2 commence directement avec les nombres impairs sauf 2 : 2,3,5,7,9,11 etc...
-Cela permet d'économiser 1/2 de la mémoire et 1/3 du temps
-Pour se faire il créée la liste avec une intervale de 2 entre chaque nombre
 
 Le script3 commence directement sans les nombres pairs et les multiples de 3 : 2,3,5,7,11,13
 Pour se faire il créée la liste avec des intervale entre les nombres : 2,4,2,4
